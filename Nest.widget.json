@@ -1,7 +1,7 @@
 {
-    "name": "CT100",
-    "author": "BK Hobby (www.youtube.com/c/BKHobby)",
-    "description": "Widget for the CT100 Thermostat (based on Tim Rogers's ecobee Widget, adapted for the simpler CT100 controls)",
+    "name": "Nest",
+    "author": "Alan Derenne",
+    "description": "Widget for controlling a nest thermostat. this is based off of the CT100 Thermostat (based on Tim Rogers's ecobee Widget, adapted for the simpler CT100 controls)",
     "settings": [
         {
             "type": "item",
